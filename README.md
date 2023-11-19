@@ -7,7 +7,7 @@ MyFirstNode.js project.
 
 <br>
 First install the necessary node.js and npm packages using the original browser and terminal.The commands include:
-After installing node.js from the website https://nodejs.org/,run the following in the command prompt:
+After installing node.js from the website https://nodejs.org/ ,run the following in the command prompt:
 node -v
 npm install
 npm install express body-parser sqlite3
